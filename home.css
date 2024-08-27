@@ -1,0 +1,1232 @@
+.desktop {
+  background-color: #252525;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.desktop .div {
+  background-color: #252525;
+  overflow: hidden;
+  width: 1440px;
+  height: 6355px;
+  position: relative;
+}
+
+.desktop .overlap {
+  position: absolute;
+  width: 1440px;
+  height: 740px;
+  top: 0;
+  left: 0;
+}
+
+.desktop .text-wrapper {
+  position: absolute;
+  top: 200px;
+  left: 156px;
+  font-family: var(--heading-2-font-family);
+  font-weight: var(--heading-2-font-weight);
+  color: #008000;
+  font-size: var(--heading-2-font-size);
+  letter-spacing: var(--heading-2-letter-spacing);
+  line-height: var(--heading-2-line-height);
+  font-style: var(--heading-2-font-style);
+}
+
+.desktop .p {
+  position: absolute;
+  width: 671px;
+  top: 257px;
+  left: 156px;
+  font-family: var(--heading-1-font-family);
+  font-weight: var(--heading-1-font-weight);
+  color: #ffffff;
+  font-size: var(--heading-1-font-size);
+  letter-spacing: var(--heading-1-letter-spacing);
+  line-height: var(--heading-1-line-height);
+  font-style: var(--heading-1-font-style);
+}
+
+.desktop .a-UI-UX-designer {
+  position: absolute;
+  width: 506px;
+  top: 411px;
+  left: 156px;
+  font-family: var(--body-text-font-family);
+  font-weight: var(--body-text-font-weight);
+  color: #808080;
+  font-size: var(--body-text-font-size);
+  letter-spacing: var(--body-text-letter-spacing);
+  line-height: var(--body-text-line-height);
+  font-style: var(--body-text-font-style);
+}
+
+.desktop .youtube {
+  top: 582px;
+  left: 357px;
+  position: absolute;
+  width: 39px;
+  height: 39px;
+  object-fit: cover;
+}
+
+.desktop .instagram {
+  top: 581px;
+  left: 416px;
+  position: absolute;
+  width: 28px;
+  height: 28px;
+  object-fit: cover;
+}
+
+.desktop .whatsapp {
+  top: 580px;
+  left: 464px;
+  position: absolute;
+  width: 27px;
+  height: 27px;
+  object-fit: cover;
+}
+
+.desktop .rectangle {
+  position: absolute;
+  width: 302px;
+  height: 484px;
+  top: 137px;
+  left: 923px;
+  background-color: #3a3a3aab;
+}
+
+.desktop .ellipse {
+  position: absolute;
+  width: 108px;
+  height: 108px;
+  top: 180px;
+  left: 952px;
+  border-radius: 54px;
+  border: 2px solid;
+  border-color: #008000;
+}
+
+.desktop .mask-group {
+  position: absolute;
+  width: 226px;
+  height: 214px;
+  top: 218px;
+  left: 1029px;
+}
+
+.desktop .ghqslboaajfxf {
+  position: absolute;
+  width: 541px;
+  height: 643px;
+  top: 97px;
+  left: 863px;
+  object-fit: cover;
+}
+
+
+.desktop .polygon {
+  position: absolute;
+  width: 41px;
+  height: 41px;
+  top: 118px;
+  left: 1145px;
+}
+
+.desktop .rectangle-2 {
+  position: absolute;
+  width: 150px;
+  height: 143px;
+  top: 343px;
+  left: 877px;
+  border: 1px solid;
+  border-color: #008000;
+  transform: rotate(16.98deg);
+  filter: blur(8px);
+}
+
+.desktop .group {
+  position: absolute;
+  width: 1440px;
+  height: 100px;
+  top: 0;
+  left: 0;
+}
+
+.desktop .navbar-wrapper {
+  width: 1450px;
+  height: 100px;
+}
+
+.desktop .navbar {
+  position: relative;
+  width: 1440px;
+  height: 100px;
+  background-color: #252525;
+}
+
+.desktop .text-wrapper-2 {
+  top: 38px;
+  left: 1023px;
+  font-family: "Kanit", Helvetica;
+  font-weight: 600;
+  font-size: 16px;
+  position: absolute;
+  color: #ffffff;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-3 {
+  top: 38px;
+  left: 1113px;
+  font-family: "Kanit", Helvetica;
+  font-weight: 600;
+  font-size: 16px;
+  position: absolute;
+  color: #ffffff;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-4 {
+  top: 38px;
+  left: 1194px;
+  font-family: "Kanit", Helvetica;
+  font-weight: 600;
+  font-size: 16px;
+  position: absolute;
+  color: #ffffff;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-5 {
+  top: 38px;
+  left: 1294px;
+  font-family: "Kanit", Helvetica;
+  font-weight: 600;
+  font-size: 16px;
+  position: absolute;
+  color: #ffffff;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-6 {
+  top: 28px;
+  left: 28px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  font-style: italic;
+  font-size: 32px;
+  position: absolute;
+  color: #ffffff;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .overlap-wrapper {
+  position: absolute;
+  width: 156px;
+  height: 56px;
+  top: 567px;
+  left: 156px;
+}
+
+.desktop .overlap-group {
+  position: relative;
+  width: 154px;
+  height: 56px;
+  background-color: #008000;
+  border-radius: 3px;
+}
+
+.desktop .group-2 {
+  position: absolute;
+  width: 20px;
+  height: 21px;
+  top: 18px;
+  left: 25px;
+  background-image: url(./img/email-1-1-1.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.desktop .text-wrapper-7 {
+  position: absolute;
+  top: 18px;
+  left: 65px;
+  font-family: var(--body-text-font-family);
+  font-weight: var(--body-text-font-weight);
+  color: #ffffff;
+  font-size: var(--body-text-font-size);
+  letter-spacing: var(--body-text-letter-spacing);
+  line-height: var(--body-text-line-height);
+  white-space: nowrap;
+  font-style: var(--body-text-font-style);
+}
+
+.desktop .overlap-2 {
+  position: absolute;
+  width: 1534px;
+  height: 567px;
+  top: 3590px;
+  left: -221px;
+}
+
+.desktop .overlap-3 {
+  position: absolute;
+  width: 1534px;
+  height: 567px;
+  top: 0;
+  left: 0;
+}
+
+.desktop .why-i-started-a {
+  position: absolute;
+  width: 506px;
+  top: 198px;
+  left: 1028px;
+  font-family: var(--heading-1-font-family);
+  font-weight: var(--heading-1-font-weight);
+  color: transparent;
+  font-size: var(--heading-1-font-size);
+  letter-spacing: var(--heading-1-letter-spacing);
+  line-height: var(--heading-1-line-height);
+  font-style: var(--heading-1-font-style);
+}
+
+.desktop .span {
+  color: #ffffff;
+  font-family: var(--heading-1-font-family);
+  font-style: var(--heading-1-font-style);
+  font-weight: var(--heading-1-font-weight);
+  letter-spacing: var(--heading-1-letter-spacing);
+  line-height: var(--heading-1-line-height);
+  font-size: var(--heading-1-font-size);
+}
+
+.desktop .text-wrapper-8 {
+  color: #008000;
+  font-family: var(--heading-1-font-family);
+  font-style: var(--heading-1-font-style);
+  font-weight: var(--heading-1-font-weight);
+  letter-spacing: var(--heading-1-letter-spacing);
+  line-height: var(--heading-1-line-height);
+  font-size: var(--heading-1-font-size);
+}
+
+.desktop .text-wrapper-9 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  -webkit-text-stroke: 1px #777777;
+  opacity: 0.2;
+  font-family: "Kanit", Helvetica;
+  font-weight: 600;
+  color: transparent;
+  font-size: 288px;
+  letter-spacing: 28.8px;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-10 {
+  position: absolute;
+  width: 366px;
+  top: 352px;
+  left: 1028px;
+  font-family: var(--body-text-font-family);
+  font-weight: var(--body-text-font-weight);
+  color: #808080;
+  font-size: var(--body-text-font-size);
+  letter-spacing: var(--body-text-letter-spacing);
+  line-height: var(--body-text-line-height);
+  font-style: var(--body-text-font-style);
+}
+
+.desktop .rectangle-3 {
+  position: absolute;
+  width: 552px;
+  height: 310px;
+  top: 257px;
+  left: 380px;
+  background: linear-gradient(
+    180deg,
+    rgb(58, 58, 58) 0%,
+    rgb(131.95, 131.95, 131.95) 57%,
+    rgb(132.93, 132.93, 132.93) 62.5%,
+    rgb(125.75, 125.75, 125.75) 99.98%,
+    rgb(102.35, 102.35, 102.35) 99.99%,
+    rgb(160, 160, 160) 100%
+  );
+}
+
+.desktop .kukuh-photo {
+  position: absolute;
+  width: 251px;
+  height: 359px;
+  top: 208px;
+  left: 530px;
+  object-fit: cover;
+}
+
+.desktop .img {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  top: 527px;
+  left: 1028px;
+  object-fit: cover;
+}
+
+.desktop .text-wrapper-11 {
+  position: absolute;
+  top: 533px;
+  left: 1083px;
+  font-family: var(--body-text-small-font-family);
+  font-weight: var(--body-text-small-font-weight);
+  color: #ffffff;
+  font-size: var(--body-text-small-font-size);
+  letter-spacing: var(--body-text-small-letter-spacing);
+  line-height: var(--body-text-small-line-height);
+  white-space: nowrap;
+  font-style: var(--body-text-small-font-style);
+}
+
+.desktop .line {
+  position: absolute;
+  width: 105px;
+  height: 1px;
+  top: 556px;
+  left: 1083px;
+  object-fit: cover;
+}
+
+.desktop .arrow {
+  position: absolute;
+  width: 18px;
+  height: 15px;
+  top: 538px;
+  left: 1197px;
+}
+
+.desktop .overlap-4 {
+  position: absolute;
+  width: 1077px;
+  height: 473px;
+  top: 4203px;
+  left: 486px;
+}
+
+.desktop .overlap-5 {
+  position: absolute;
+  width: 987px;
+  height: 473px;
+  top: 0;
+  left: 90px;
+}
+
+.desktop .text-wrapper-12 {
+  position: absolute;
+  top: 139px;
+  left: 0;
+  font-family: "Kanit", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 46px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-13 {
+  position: absolute;
+  top: 0;
+  left: 172px;
+  -webkit-text-stroke: 1px #777777;
+  opacity: 0.2;
+  font-family: "Kanit", Helvetica;
+  font-weight: 600;
+  color: transparent;
+  font-size: 200px;
+  letter-spacing: 20px;
+  line-height: normal;
+}
+
+.desktop .ganti {
+  position: absolute;
+  width: 180px;
+  height: 180px;
+  top: 293px;
+  left: 196px;
+  object-fit: cover;
+}
+
+.desktop .clients-favourite {
+  position: absolute;
+  width: 180px;
+  height: 180px;
+  top: 293px;
+  left: 491px;
+  object-fit: cover;
+}
+
+.desktop .star {
+  width: 35px;
+  height: 35px;
+  top: 320px;
+  left: 513px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.desktop .star-2 {
+  width: 21px;
+  height: 21px;
+  top: 389px;
+  left: 625px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.desktop .pie-graph {
+  width: 35px;
+  height: 35px;
+  top: 320px;
+  left: 327px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.desktop .pie-graph-2 {
+  width: 23px;
+  height: 23px;
+  top: 394px;
+  left: 219px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.desktop .overlap-6 {
+  position: absolute;
+  width: 180px;
+  height: 180px;
+  top: 293px;
+  left: 0;
+  background-image: url(./img/collaborative-2.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.desktop .like {
+  width: 35px;
+  height: 35px;
+  top: 27px;
+  left: 11px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.desktop .like-2 {
+  width: 25px;
+  height: 26px;
+  top: 98px;
+  left: 133px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.desktop .tolls-skills {
+  position: absolute;
+  top: 5512px;
+  left: 588px;
+  font-family: "Kanit", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 46px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-14 {
+  position: absolute;
+  top: 958px;
+  left: 156px;
+  font-family: var(--heading-1-font-family);
+  font-weight: var(--heading-1-font-weight);
+  color: #ffffff;
+  font-size: var(--heading-1-font-size);
+  letter-spacing: var(--heading-1-letter-spacing);
+  line-height: var(--heading-1-line-height);
+  font-style: var(--heading-1-font-style);
+}
+
+.desktop .text-wrapper-15 {
+  position: absolute;
+  top: 4712px;
+  left: 227px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .text-wrapper-16 {
+  position: absolute;
+  top: 4712px;
+  left: 784px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .text-wrapper-17 {
+  position: absolute;
+  top: 4712px;
+  left: 1088px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .text-wrapper-18 {
+  position: absolute;
+  top: 4712px;
+  left: 524px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .text-wrapper-19 {
+  position: absolute;
+  width: 256px;
+  top: 4764px;
+  left: 159px;
+  opacity: 0.8;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-20 {
+  position: absolute;
+  width: 271px;
+  top: 4764px;
+  left: 726px;
+  opacity: 0.8;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-21 {
+  position: absolute;
+  width: 265px;
+  top: 4764px;
+  left: 1024px;
+  opacity: 0.8;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-22 {
+  position: absolute;
+  width: 259px;
+  top: 4764px;
+  left: 447px;
+  opacity: 0.8;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-23 {
+  position: absolute;
+  top: 1744px;
+  left: 175px;
+  font-family: var(--body-text-small-font-family);
+  font-weight: var(--body-text-small-font-weight);
+  color: #ffffff;
+  font-size: var(--body-text-small-font-size);
+  letter-spacing: var(--body-text-small-letter-spacing);
+  line-height: var(--body-text-small-line-height);
+  white-space: nowrap;
+  font-style: var(--body-text-small-font-style);
+}
+
+.desktop .text-wrapper-24 {
+  top: 2499px;
+  position: absolute;
+  left: 175px;
+  font-family: var(--body-text-small-font-family);
+  font-weight: var(--body-text-small-font-weight);
+  color: #ffffff;
+  font-size: var(--body-text-small-font-size);
+  letter-spacing: var(--body-text-small-letter-spacing);
+  line-height: var(--body-text-small-line-height);
+  white-space: nowrap;
+  font-style: var(--body-text-small-font-style);
+}
+
+.desktop .text-wrapper-25 {
+  top: 3261px;
+  position: absolute;
+  left: 175px;
+  font-family: var(--body-text-small-font-family);
+  font-weight: var(--body-text-small-font-weight);
+  color: #ffffff;
+  font-size: var(--body-text-small-font-size);
+  letter-spacing: var(--body-text-small-letter-spacing);
+  line-height: var(--body-text-small-line-height);
+  white-space: nowrap;
+  font-style: var(--body-text-small-font-style);
+}
+
+.desktop .link {
+  top: 1747px;
+  position: absolute;
+  width: 11px;
+  height: 11px;
+  left: 156px;
+  object-fit: cover;
+}
+
+.desktop .link-2 {
+  top: 2502px;
+  position: absolute;
+  width: 11px;
+  height: 11px;
+  left: 156px;
+  object-fit: cover;
+}
+
+.desktop .link-3 {
+  top: 3264px;
+  position: absolute;
+  width: 11px;
+  height: 11px;
+  left: 156px;
+  object-fit: cover;
+}
+
+.desktop .group-3 {
+  position: absolute;
+  width: 1128px;
+  height: 630px;
+  top: 1090px;
+  left: 156px;
+  object-fit: cover;
+}
+
+.desktop .thumbnail {
+  position: absolute;
+  width: 1128px;
+  height: 630px;
+  top: 1847px;
+  left: 156px;
+  object-fit: cover;
+}
+
+.desktop .thumbbb {
+  position: absolute;
+  width: 1128px;
+  height: 631px;
+  top: 2609px;
+  left: 156px;
+  object-fit: cover;
+}
+
+.desktop .overlap-7 {
+  position: absolute;
+  width: 1128px;
+  height: 140px;
+  top: 3449px;
+  left: 159px;
+  background-color: #3a3a3a;
+}
+
+.desktop .text-wrapper-26 {
+  position: absolute;
+  top: 46px;
+  left: 42px;
+  font-family: var(--heading-2-font-family);
+  font-weight: var(--heading-2-font-weight);
+  color: #ffffff;
+  font-size: var(--heading-2-font-size);
+  letter-spacing: var(--heading-2-letter-spacing);
+  line-height: var(--heading-2-line-height);
+  font-style: var(--heading-2-font-style);
+}
+
+.desktop .overlap-group-wrapper {
+  position: absolute;
+  width: 156px;
+  height: 56px;
+  top: 42px;
+  left: 937px;
+}
+
+.desktop .overlap-8 {
+  position: absolute;
+  width: 154px;
+  height: 56px;
+  top: 42px;
+  left: 778px;
+}
+
+.desktop .div-wrapper {
+  position: absolute;
+  width: 132px;
+  height: 19px;
+  top: 18px;
+  left: 12px;
+}
+
+.desktop .text-wrapper-27 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: var(--body-text-font-family);
+  font-weight: var(--body-text-font-weight);
+  color: #ffffff;
+  font-size: var(--body-text-font-size);
+  letter-spacing: var(--body-text-letter-spacing);
+  line-height: var(--body-text-line-height);
+  white-space: nowrap;
+  font-style: var(--body-text-font-style);
+}
+
+.desktop .rectangle-4 {
+  position: absolute;
+  width: 154px;
+  height: 56px;
+  top: 0;
+  left: 0;
+  border: 1px solid;
+  border-color: #7a7a7a;
+}
+
+.desktop .overlap-9 {
+  position: absolute;
+  width: 180px;
+  height: 180px;
+  top: 4496px;
+  left: 200px;
+  background-image: url(./img/communicative-1.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.desktop .coment {
+  width: 35px;
+  height: 35px;
+  top: 16px;
+  left: 141px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.desktop .coment-2 {
+  width: 25px;
+  height: 23px;
+  top: 98px;
+  left: 24px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.desktop .overlap-10 {
+  position: absolute;
+  width: 1440px;
+  height: 322px;
+  top: 5093px;
+  left: 3px;
+}
+
+.desktop .rectangle-5 {
+  position: absolute;
+  width: 1440px;
+  height: 263px;
+  top: 59px;
+  left: 0;
+  background-color: #333232;
+}
+
+.desktop .pngwing-com {
+  position: absolute;
+  width: 1437px;
+  height: 262px;
+  top: 59px;
+  left: 0;
+  object-fit: cover;
+}
+
+.desktop .wow-is-all-i-can-say {
+  position: absolute;
+  width: 487px;
+  top: 96px;
+  left: 700px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 300;
+  color: #b3b3b3;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-28 {
+  position: absolute;
+  width: 115px;
+  top: 219px;
+  left: 700px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 300;
+  color: #ffffff;
+  font-size: 13px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .rectangle-6 {
+  position: absolute;
+  width: 381px;
+  height: 251px;
+  top: 0;
+  left: 276px;
+  background: linear-gradient(180deg, rgb(58, 58, 58) 0%, rgb(118.57, 118.57, 118.57) 100%);
+}
+
+.desktop .mask-group-2 {
+  position: absolute;
+  width: 180px;
+  height: 171px;
+  top: 80px;
+  left: 320px;
+}
+
+.desktop .abdelhadibouchrouaat {
+  position: absolute;
+  width: 264px;
+  height: 233px;
+  top: 18px;
+  left: 343px;
+  object-fit: cover;
+}
+
+.desktop .rectangle-7 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  top: 44px;
+  left: 518px;
+  border: 1px solid;
+  border-color: #008000;
+  transform: rotate(29.04deg);
+}
+
+.desktop .text-wrapper-29 {
+  position: absolute;
+  top: 190px;
+  left: 700px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .vector {
+  left: 156px;
+  position: absolute;
+  width: 20px;
+  height: 30px;
+  top: 175px;
+}
+
+.desktop .vector-2 {
+  left: 1263px;
+  position: absolute;
+  width: 20px;
+  height: 30px;
+  top: 175px;
+}
+
+.desktop .ellipse-2 {
+  position: absolute;
+  width: 7px;
+  height: 7px;
+  top: 287px;
+  left: 277px;
+  background-color: #008000;
+  border-radius: 3.5px;
+}
+
+.desktop .ellipse-3 {
+  position: absolute;
+  width: 7px;
+  height: 7px;
+  top: 287px;
+  left: 292px;
+  background-color: #d9d9d9;
+  border-radius: 3.5px;
+}
+
+.desktop .ellipse-4 {
+  position: absolute;
+  width: 7px;
+  height: 7px;
+  top: 287px;
+  left: 307px;
+  background-color: #d9d9d9;
+  border-radius: 3.5px;
+}
+
+.desktop .group-4 {
+  position: absolute;
+  width: 689px;
+  height: 122px;
+  top: 5718px;
+  left: 378px;
+}
+
+.desktop .logo-and-wrapper {
+  position: absolute;
+  width: 120px;
+  height: 120px;
+  top: 2px;
+  left: 0;
+  background-color: #d9d9d9;
+}
+
+.desktop .logo-and {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  top: 10px;
+  left: 10px;
+  object-fit: cover;
+}
+
+.desktop .css-logo-and-wrapper {
+  position: absolute;
+  width: 120px;
+  height: 120px;
+  top: 2px;
+  left: 188px;
+  background-color: #d9d9d9;
+}
+
+.desktop .css-logo-and {
+  position: absolute;
+  width: 71px;
+  height: 100px;
+  top: 10px;
+  left: 27px;
+  object-fit: cover;
+}
+
+.desktop .figma-logo-svg-wrapper {
+  position: absolute;
+  width: 120px;
+  height: 120px;
+  top: 2px;
+  left: 376px;
+  background-color: #2f2f2f;
+  border-radius: 5px;
+}
+
+.desktop .figma-logo-svg {
+  position: absolute;
+  width: 64px;
+  height: 96px;
+  top: 12px;
+  left: 28px;
+  object-fit: cover;
+}
+
+.desktop .adobe-photoshop-CC {
+  position: absolute;
+  width: 125px;
+  height: 122px;
+  top: 0;
+  left: 564px;
+  object-fit: cover;
+}
+
+.desktop .overlap-11 {
+  position: absolute;
+  width: 1440px;
+  height: 340px;
+  top: 6015px;
+  left: 0;
+  background-color: #171616;
+}
+
+.desktop .text-wrapper-30 {
+  position: absolute;
+  top: 48px;
+  left: 156px;
+  font-family: "Kanit", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 46px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .for-business-inquiry {
+  position: absolute;
+  top: 134px;
+  left: 156px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 300;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .text-wrapper-31 {
+  font-family: "Roboto", Helvetica;
+  font-weight: 300;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+}
+
+.desktop .text-wrapper-32 {
+  text-decoration: underline;
+}
+
+.desktop .youtube-2 {
+  top: 218px;
+  left: 156px;
+  position: absolute;
+  width: 39px;
+  height: 39px;
+  object-fit: cover;
+}
+
+.desktop .instagram-2 {
+  top: 217px;
+  left: 233px;
+  position: absolute;
+  width: 28px;
+  height: 28px;
+  object-fit: cover;
+}
+
+.desktop .whatsapp-2 {
+  top: 218px;
+  left: 302px;
+  position: absolute;
+  width: 27px;
+  height: 27px;
+  object-fit: cover;
+}
+
+.desktop .polygon-2 {
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  top: 76px;
+  left: 895px;
+}
+
+.desktop .overlap-12 {
+  position: absolute;
+  width: 332px;
+  height: 265px;
+  top: 75px;
+  left: 1108px;
+}
+
+.desktop .mask-group-3 {
+  position: absolute;
+  width: 247px;
+  height: 236px;
+  top: 29px;
+  left: 85px;
+}
+
+.desktop .rectangle-8 {
+  position: absolute;
+  width: 90px;
+  height: 90px;
+  top: 0;
+  left: 0;
+  border: 1px solid;
+  border-color: #3a3a3a;
+  transform: rotate(22.3deg);
+}
+
+.desktop .ellipse-5 {
+  position: absolute;
+  width: 90px;
+  height: 90px;
+  top: 193px;
+  left: 942px;
+  border-radius: 45px;
+  border: 2px solid;
+  border-color: #3a3a3a;
+}
+
+
+/* efect pencet home,blog,project,youtube */
+
+.navbar .text-wrapper-2,
+.navbar .text-wrapper-3,
+.navbar .text-wrapper-4,
+.navbar .text-wrapper-5 {
+  transition: color 0.1s ease, border-bottom 0.3s ease; /* Menambahkan transisi untuk warna dan garis bawah */
+  border-bottom: 2px solid transparent; /* Garis bawah awal transparan */
+}
+
+.navbar .text-wrapper-2:hover,
+.navbar .text-wrapper-3:hover,
+.navbar .text-wrapper-4:hover,
+.navbar .text-wrapper-5:hover {
+  color: yellow; /* Mengubah warna menjadi kuning saat kursor berada di atas elemen */
+  border-bottom: 2px solid yellow; /* Menambahkan garis bawah kuning */
+}
+

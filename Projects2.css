@@ -1,0 +1,26 @@
+:root {
+  --heading-2-font-family: "Kanit", Helvetica;
+  --heading-2-font-weight: 600;
+  --heading-2-font-size: 30px;
+  --heading-2-letter-spacing: 0px;
+  --heading-2-line-height: normal;
+  --heading-2-font-style: normal;
+  --heading-1-font-family: "Kanit", Helvetica;
+  --heading-1-font-weight: 600;
+  --heading-1-font-size: 46px;
+  --heading-1-letter-spacing: 0px;
+  --heading-1-line-height: normal;
+  --heading-1-font-style: normal;
+  --body-text-font-family: "Roboto", Helvetica;
+  --body-text-font-weight: 400;
+  --body-text-font-size: 16px;
+  --body-text-letter-spacing: 0px;
+  --body-text-line-height: normal;
+  --body-text-font-style: normal;
+  --body-text-small-font-family: "Roboto", Helvetica;
+  --body-text-small-font-weight: 400;
+  --body-text-small-font-size: 14px;
+  --body-text-small-letter-spacing: 0px;
+  --body-text-small-line-height: normal;
+  --body-text-small-font-style: normal;
+}

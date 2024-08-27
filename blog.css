@@ -1,0 +1,421 @@
+.project {
+  background-color: #252525;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.project .div {
+  background-color: #252525;
+  overflow: hidden;
+  width: 1440px;
+  height: 1625px;
+  position: relative;
+}
+
+.project .text-wrapper {
+  position: absolute;
+  top: 167px;
+  left: 156px;
+  font-family: var(--heading-1-font-family);
+  font-weight: var(--heading-1-font-weight);
+  color: #ffffff;
+  font-size: var(--heading-1-font-size);
+  letter-spacing: var(--heading-1-letter-spacing);
+  line-height: var(--heading-1-line-height);
+  font-style: var(--heading-1-font-style);
+}
+
+.project .text-wrapper-2 {
+  position: absolute;
+  top: -807px;
+  left: 612px;
+  font-family: var(--heading-2-font-family);
+  font-weight: var(--heading-2-font-weight);
+  color: #ffffff;
+  font-size: var(--heading-2-font-size);
+  letter-spacing: var(--heading-2-letter-spacing);
+  line-height: var(--heading-2-line-height);
+  font-style: var(--heading-2-font-style);
+}
+
+.project .p {
+  position: absolute;
+  top: 291px;
+  left: 156px;
+  font-family: var(--heading-2-font-family);
+  font-weight: var(--heading-2-font-weight);
+  color: #ffffff;
+  font-size: var(--heading-2-font-size);
+  letter-spacing: var(--heading-2-letter-spacing);
+  line-height: var(--heading-2-line-height);
+  font-style: var(--heading-2-font-style);
+}
+
+.project .text-wrapper-3 {
+  position: absolute;
+  width: 1131px;
+  top: 355px;
+  left: 156px;
+  font-family: "Kanit", Helvetica;
+  font-weight: 300;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.project .tutorial-membuat {
+  position: absolute;
+  width: 350px;
+  height: 194px;
+  top: 831px;
+  left: 156px;
+  object-fit: cover;
+}
+
+.project .cara-membut-web {
+  position: absolute;
+  width: 350px;
+  height: 197px;
+  top: 494px;
+  left: 156px;
+  object-fit: cover;
+}
+
+.project .cara-memahami-brief {
+  position: absolute;
+  width: 350px;
+  height: 197px;
+  top: 494px;
+  left: 545px;
+  object-fit: cover;
+}
+
+.project .img {
+  position: absolute;
+  width: 350px;
+  height: 197px;
+  top: 494px;
+  left: 934px;
+  object-fit: cover;
+}
+
+.project .cara-membuat-web {
+  left: 156px;
+  position: absolute;
+  top: 704px;
+  font-family: "Kanit", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.project .text-wrapper-4 {
+  position: absolute;
+  width: 332px;
+  top: 1041px;
+  left: 156px;
+  font-family: "Kanit", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.project .tutorial-membuat-2 {
+  position: absolute;
+  width: 297px;
+  top: 1041px;
+  left: 545px;
+  font-family: "Kanit", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.project .tutorial-membuat-web {
+  position: absolute;
+  width: 333px;
+  top: 1041px;
+  left: 934px;
+  font-family: "Kanit", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.project .cara-memahami-brief-2 {
+  left: 545px;
+  position: absolute;
+  top: 704px;
+  font-family: "Kanit", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.project .cara-membuat-web-2 {
+  left: 934px;
+  position: absolute;
+  top: 704px;
+  font-family: "Kanit", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.project .element-plugin-terbaik-di {
+  position: absolute;
+  width: 350px;
+  height: 196px;
+  top: 830px;
+  left: 545px;
+  object-fit: cover;
+}
+
+.project .tutorial-membuat-web-2 {
+  position: absolute;
+  width: 350px;
+  height: 196px;
+  top: 830px;
+  left: 931px;
+  object-fit: cover;
+}
+
+.project .group {
+  position: absolute;
+  width: 1544px;
+  height: 433px;
+  top: 1285px;
+  left: 0;
+}
+
+.project .overlap-group {
+  position: relative;
+  width: 1440px;
+  height: 340px;
+  background-color: #171616;
+}
+
+.project .text-wrapper-5 {
+  position: absolute;
+  top: 51px;
+  left: 159px;
+  font-family: "Kanit", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 46px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.project .for-business-inquiry {
+  position: absolute;
+  top: 137px;
+  left: 159px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 300;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.project .span {
+  font-family: "Roboto", Helvetica;
+  font-weight: 300;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+}
+
+.project .text-wrapper-6 {
+  text-decoration: underline;
+}
+
+.project .youtube {
+  position: absolute;
+  width: 39px;
+  height: 39px;
+  top: 220px;
+  left: 159px;
+  object-fit: cover;
+}
+
+.project .instagram {
+  position: absolute;
+  width: 28px;
+  height: 28px;
+  top: 219px;
+  left: 236px;
+  object-fit: cover;
+}
+
+.project .whatsapp {
+  position: absolute;
+  width: 27px;
+  height: 27px;
+  top: 220px;
+  left: 305px;
+  object-fit: cover;
+}
+
+.project .polygon {
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  top: 78px;
+  left: 898px;
+}
+
+.project .overlap {
+  position: absolute;
+  width: 329px;
+  height: 263px;
+  top: 77px;
+  left: 1111px;
+}
+
+.project .mask-group {
+  position: absolute;
+  width: 244px;
+  height: 234px;
+  top: 29px;
+  left: 85px;
+}
+
+.project .rectangle {
+  position: absolute;
+  width: 90px;
+  height: 90px;
+  top: 0;
+  left: 0;
+  border: 1px solid;
+  border-color: #3a3a3a;
+  transform: rotate(22.3deg);
+}
+
+.project .ellipse {
+  position: absolute;
+  width: 90px;
+  height: 90px;
+  top: 195px;
+  left: 945px;
+  border-radius: 45px;
+  border: 2px solid;
+  border-color: #3a3a3a;
+}
+
+.project .group-wrapper {
+  position: absolute;
+  width: 1440px;
+  height: 100px;
+  top: 0;
+  left: 0;
+}
+
+.project .navbar-wrapper {
+  width: 1450px;
+  height: 100px;
+}
+
+.project .navbar {
+  position: relative;
+  width: 1440px;
+  height: 100px;
+  background-color: #252525;
+}
+
+.project .text-wrapper-7 {
+  top: 38px;
+  left: 1023px;
+  font-family: "Kanit", Helvetica;
+  font-weight: 600;
+  font-size: 16px;
+  position: absolute;
+  color: #ffffff;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.project .text-wrapper-8 {
+  top: 38px;
+  left: 1113px;
+  font-family: "Kanit", Helvetica;
+  font-weight: 600;
+  font-size: 16px;
+  position: absolute;
+  color: #ffffff;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.project .text-wrapper-9 {
+  top: 38px;
+  left: 1194px;
+  font-family: "Kanit", Helvetica;
+  font-weight: 600;
+  font-size: 16px;
+  position: absolute;
+  color: #ffffff;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.project .text-wrapper-10 {
+  top: 38px;
+  left: 1294px;
+  font-family: "Kanit", Helvetica;
+  font-weight: 600;
+  font-size: 16px;
+  position: absolute;
+  color: #ffffff;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.project .text-wrapper-11 {
+  top: 28px;
+  left: 28px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  font-style: italic;
+  font-size: 32px;
+  position: absolute;
+  color: #ffffff;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+
+/* efect pencet home,blog,project,youtube */
+
+.navbar .text-wrapper-7,
+.navbar .text-wrapper-8,
+.navbar .text-wrapper-9,
+.navbar .text-wrapper-10 {
+  transition: color 0.1s ease, border-bottom 0.3s ease; /* Menambahkan transisi untuk warna dan garis bawah */
+  border-bottom: 2px solid transparent; /* Garis bawah awal transparan */
+}
+
+.navbar .text-wrapper-7:hover,
+.navbar .text-wrapper-8:hover,
+.navbar .text-wrapper-9:hover,
+.navbar .text-wrapper-10:hover {
+  color: yellow; /* Mengubah warna menjadi kuning saat kursor berada di atas elemen */
+  border-bottom: 2px solid yellow; /* Menambahkan garis bawah kuning */
+}
